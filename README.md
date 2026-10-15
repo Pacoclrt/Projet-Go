@@ -199,9 +199,3 @@ As he said: 'this IS SO EXCITING'
 - Un marqueur placé en début de ligne (sans mot avant lui) est simplement supprimé.
 
 ---
-
-<div align="center">
-
-Fait avec ❤️ et Go — Ynov
-
-</div>
